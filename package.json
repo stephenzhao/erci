@@ -1,0 +1,17 @@
+{
+  "name": "erci",
+  "version": "1.0.0",
+  "description": "Random log ci",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "damon",
+  "license": "ISC",
+  "dependencies": {
+    "saikou": "0.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.10.0"
+  }
+}
