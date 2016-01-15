@@ -9,6 +9,7 @@
   "author": "damon",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.3",
     "saikou": "0.0.1"
   },
   "devDependencies": {
